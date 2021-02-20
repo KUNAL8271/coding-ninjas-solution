@@ -1,2 +1,2 @@
-# coding-ninjas-solution
-conditional and loop
+# coding-ninjas-solution in c++;
+
